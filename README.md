@@ -40,4 +40,4 @@ To summarize. The vast majority of riders are men. Both men and women tend to us
 
 Further visualizations that may be helpful are a heatmap of rider gender by age, and a geographical heatmap showing where male and female riders most often begin rides.
 
-[link to dashboard(https://public.tableau.com/profile/anthony.hendrickson#!/vizhome/AH_NYC_CITIBIKE_CHALLENGE/gnder_pie?publish=yes)
+[link to dashboard](https://public.tableau.com/profile/anthony.hendrickson#!/vizhome/AH_NYC_CITIBIKE_CHALLENGE/gnder_pie?publish=yes)
