@@ -20,11 +20,11 @@ Now we shall discuss the visualized findings one by one.
 
 4. The 'Start Time by Day of Week' visualization is a heatmap representing the most frequent ride start times as the densest colors of the heatmap. You will note that during the week, riders appear to be using the bikeshare program to commute to and from work, as the most frequent ride start times correspond with the beginning and end of the workday. 
 
-![alt text](https://github.com/Anthony-Hendrickson/bikesharing/blob/main/Photos/4-start_time_day_of_week)
+![alt text](https://github.com/Anthony-Hendrickson/bikesharing/blob/main/Photos/4-start_time_day_of_week.PNG)
 
 5. The 'Start time by Gender' visualization is a heatmap showing balls of light with different color saturations depending on the concentration of riders at a given hour of the day. The 'hotter' looking balls represent a higher concentration. This display allows you to clearly see the times of day at which the 3 gender types begin their rides. 
 
-![alt text](https://github.com/Anthony-Hendrickson/bikesharing/blob/main/Photos/5-Start_time_by_gender)
+![alt text](https://github.com/Anthony-Hendrickson/bikesharing/blob/main/Photos/5-Start_time_by_gender.PNG)
 
 6. The 'User Type Count by Day of Week' visualization looks more specifically on the basis upon which people use the bikes. Customers purchase rides one at a time whereas subscribers purchase multiple rides over a period of time at once. We can see from this visualition that the majority of users of the bikeshare program are subscribers, and that Thursday and Friday are the most popular days to begin a ride. 
 
